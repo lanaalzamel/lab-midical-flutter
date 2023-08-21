@@ -1,0 +1,16 @@
+{
+  "User info": {
+    "id": 2,
+    "first_name": "User",
+    "last_name": "sdfddfd",
+    "phone_number": "9898653263",
+    "email": "user98989@mail.com",
+    "gender": "male",
+    "birth_date": "1994-02-02",
+    "age": 29,
+    "address_id": 1,
+    "account_type": 0,
+    "created_at": null,
+    "updated_at": null
+  }
+}

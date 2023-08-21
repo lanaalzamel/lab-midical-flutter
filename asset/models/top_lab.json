@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "lab 1",
+    "address_id": 1,
+    "phone_number": 119876543,
+    "user_id": 5,
+    "certificate": "iiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+    "image": "/uploads/labs/14754227231692340818.jpg",
+    "stamp": "/uploads/stamps/8333501351692340818.jpg",
+    "open_hour": "09:00:00",
+    "close_hour": "15:00:00",
+    "work_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "averageRate": null,
+    "rates": []
+  }
+]

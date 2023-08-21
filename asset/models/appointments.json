@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "user_id": 5,
+    "lab_id": 1,
+    "date": "2023-03-05",
+    "hour": "10:05:00",
+    "total_price": 1500,
+    "created_at": null,
+    "updated_at": null,
+    "tests": [
+      {
+        "id": 1,
+        "name": "hvs",
+        "description": "fewfwfw",
+        "price": 1500,
+        "image": "/uploads/tests/9638263611692340741.jpg",
+        "test_category_id": 1,
+        "pivot": {
+          "appointments_id": 1,
+          "tests_id": 1
+        }
+      }
+    ]
+  }
+]

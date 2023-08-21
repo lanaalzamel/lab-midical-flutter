@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "472142485389",
+    "project_id": "lab-medical-flutter",
+    "storage_bucket": "lab-medical-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472142485389:android:1325e470a1304e53924fc4",
+        "android_client_info": {
+          "package_name": "com.labapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472142485389-ag2c96sooff1ag0uvkdbip4quohl16f3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.labapp",
+            "certificate_hash": "aaa0c6659c23ade9c41a08ca16790ff41400392d"
+          }
+        },
+        {
+          "client_id": "472142485389-idpkok7r4bflahtdf79eocpot8punhq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6n6OpuLIzxn-5v9NAksHdL2JK4KGLAI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472142485389-idpkok7r4bflahtdf79eocpot8punhq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
